@@ -1,0 +1,9 @@
+Binding: create_project
+Title: Create a folder with relevant sub-folders for statistical analyses
+OpenFiles: Readme.md
+
+Parameter: createGitignore
+Widget: CheckboxInput
+Label: Create .gitignore
+Default: on
+Position: right
